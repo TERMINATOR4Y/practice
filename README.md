@@ -1,6 +1,6 @@
 # practice
-for practice
+1. for practice
 <br>
-for practice
+2. for practice
 <br>
-for practice
+3. for practice
